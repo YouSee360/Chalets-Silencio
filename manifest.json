@@ -36,9 +36,9 @@
    "sizes": "16x16"
   }
  ],
- "theme_color": "#FFFFFF",
  "display": "fullscreen",
+ "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF",
  "start_url": "index.htm",
- "name": "Silencio Del Bosque",
- "background_color": "#FFFFFF"
+ "name": "Silencio Del Bosque"
 }
