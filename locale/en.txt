@@ -1,0 +1,66 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_2E9AA377_7F18_6046_41D5_B7429C591C1A.source = https//www.yousee360.com
+LinkBehaviour_12FC7AAB_7F18_E0CE_41DA_FBE69CC603FB.source = https://www.yousee360.com
+LinkBehaviour_138AE6EF_7F07_A046_41D8_FDACEBE0CFE9.source = https://www.yousee360.com
+LinkBehaviour_2D3FA39E_7F09_E0C7_41D0_2D5A1B1D0EB5.source = https://www.yousee360.com
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_4A68EBBD_6909_F725_4197_474B24DEB8A4.toolTip = Bathroom Master Bedroom
+HotspotPanoramaOverlayArea_4AE5AD2C_6909_D32B_41DA_13042DE00DD8.toolTip = Bedroom 2
+HotspotPanoramaOverlayArea_4AEE30EE_6918_D127_41D5_46EF43145987.toolTip = Bedroom 2
+HotspotPanoramaOverlayArea_4A6C6DB9_6908_732D_41D6_8089B80C750C.toolTip = Kitchen
+HotspotPanoramaOverlayArea_4B9AA042_6908_B15F_41BF_3A93FA6712ED.toolTip = Kitchen
+HotspotPanoramaOverlayArea_4A3FFA78_6918_512B_41CF_D60B4F00536D.toolTip = Kitchen
+HotspotPanoramaOverlayArea_4A2BC839_6918_B12D_41C1_61448C98445B.toolTip = Kitchen
+HotspotPanoramaOverlayArea_45B7B365_691B_B725_41C7_6C364CA3EFB6.toolTip = Living Room
+HotspotPanoramaOverlayArea_4A5E88CA_690B_D16F_41DB_0D0CFAB653EF.toolTip = Living Room
+HotspotPanoramaOverlayArea_4A748AB4_690B_D13B_41BF_57849F030569.toolTip = Master Bedroom
+HotspotPanoramaOverlayArea_4AE2AF30_6908_EF3B_41DA_B8EA0B1186C5.toolTip = Master Bedroom
+HotspotPanoramaOverlayArea_4A38C116_6918_50E7_41D4_8555697B3E6A.toolTip = Master Bedroom
+HotspotPanoramaOverlayArea_4A780352_6909_F77E_4174_C03BE56CD340.toolTip = Patio
+HotspotPanoramaOverlayArea_4A4E035A_6918_776F_41D3_D33EB32EFBDA.toolTip = Small Bathroom
+HotspotPanoramaOverlayArea_45D6AE6E_691B_F127_41C0_37229B87C56A.toolTip = Small Bathroom
+
+## Media
+
+### Title
+panorama_4B1842A9_6979_D12A_41B3_873D908BDD01.label = Bathroom Master Bedroom
+panorama_4931634F_6978_B765_41C8_4CCDB65D4A29.label = Bedroom 2
+panorama_49308F58_6978_6F6B_41C9_9D1D96FC8338.label = Kitchen
+panorama_49310593_6978_D3FD_41D6_92D04075A169.label = Living Room
+panorama_4931C11E_6978_50E7_41D6_E2E338DDC9BF.label = Master Bedroom
+panorama_49315B36_6978_F727_41DA_3955FFCC88F3.label = Patio
+panorama_493C19D1_6979_B37D_41C9_5169F5FC0DA9.label = Small Bathroom
+
+## Right Click Menu
+
+### Text
+menuItem_132A613E_7F1B_A1C7_41D1_067079923A24.label = 360 Tour Created by YouSee360
+
+## Skin
+
+### Button
+Button_2C748C9F_7F08_A0C6_41D7_AE7BB63617CF.label = Created by YouSee360
+Button_2D1CBD31_7F08_61DA_41D6_DE35BF26AEF5.label = Tour by YouSee360
+
+### Image
+Image_1347EF1A_7F18_E1CE_41D2_1EF8178CFFC0.url = skin/Image_1347EF1A_7F18_E1CE_41D2_1EF8178CFFC0_en.png
+Image_2E3FEA90_7F0B_A0DA_41D1_1197D01DCFCB.url = skin/Image_2E3FEA90_7F0B_A0DA_41D1_1197D01DCFCB_en.png
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+Image_1347EF1A_7F18_E1CE_41D2_1EF8178CFFC0.toolTip = Tour Created by YouSee360
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Silencio Del Bosque
