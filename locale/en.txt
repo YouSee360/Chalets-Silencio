@@ -13,6 +13,10 @@ LinkBehaviour_12FC7AAB_7F18_E0CE_41DA_FBE69CC603FB.source = https://www.yousee36
 
 ## Hotspot
 
+### Text
+HotspotPanoramaOverlayTextImage_D11DC66E_F100_6403_41E1_005724293325.text = Chalets No. 1+ 2 
+HotspotPanoramaOverlayTextImage_EEA95CDF_F100_A400_41D2_9B3AB9F1350F.text = Chalets No. 3 + 4
+
 ### Tooltip
 HotspotPanoramaOverlayArea_E391FC09_F100_6400_41E9_E11912B361C3.toolTip = Arenal Volcano
 HotspotPanoramaOverlayArea_6D7E8140_75E7_B224_41CB_747ECC6010DB.toolTip = Bathroom Master Bedroom
@@ -38,6 +42,10 @@ HotspotPanoramaOverlayArea_6F1892E5_75E5_F7EC_41DB_A4EDAFFEBC09.toolTip = Small 
 HotspotPanoramaOverlayArea_6D3E3174_75E5_D2EC_41C3_F6B709CC8278.toolTip = Small Bathroom
 
 ## Media
+
+### Image
+imlevel_D13C8D7A_F100_E400_41E4_89FF5AB70811.url = media/panorama_FF726B63_F101_AC07_41BC_734D3124460D_HS_2qukmrkn_en.webp
+imlevel_D1318E11_F100_E400_41D4_324E89FB91F1.url = media/panorama_FF726B63_F101_AC07_41BC_734D3124460D_HS_t3b6h0hk_en.webp
 
 ### Title
 panorama_FF726B63_F101_AC07_41BC_734D3124460D.label = Aerial View
