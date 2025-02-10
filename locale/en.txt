@@ -4,32 +4,43 @@
 
 ### URL
 LinkBehaviour_2E9AA377_7F18_6046_41D5_B7429C591C1A.source = https//www.yousee360.com
+LinkBehaviour_E8AD8D35_F10F_A400_41E5_2626E42D26B4.source = https://www.booking.com/hotel/cr/chalets-y-cabana-silencio-del-bosque.de.html?label=chalets-y-cabana-silencio-del-bosque-tGSrzc0z4ji2pM02GMYYJgS625095142555%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-1830480193632%3Alp9215315%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YUlRwjG4dAJknXDVeIi706Y&sid=564c51c34e8e1ffea1e1c04f49f23900&gclid=CjwKCAiA5Ka9BhB5EiwA1ZVtvBp3MoKgwbjc1mQHhQRjnmNeH1LQB4S36xa6pWTURRi1PTnm8ok5FBoCdo4QAvD_BwE&aid=311092&ucfs=1&arphpl=1&dest_id=-1107229&dest_type=city&group_adults=4&req_adults=4&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=7ed983344fca04f1&srepoch=1739213204&from=searchresults
+LinkBehaviour_E878ACC3_F100_A401_41B8_328C97461D41.source = https://www.booking.com/hotel/cr/chalets-y-cabana-silencio-del-bosque.de.html?label=chalets-y-cabana-silencio-del-bosque-tGSrzc0z4ji2pM02GMYYJgS625095142555%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-1830480193632%3Alp9215315%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YUlRwjG4dAJknXDVeIi706Y&sid=564c51c34e8e1ffea1e1c04f49f23900&gclid=CjwKCAiA5Ka9BhB5EiwA1ZVtvBp3MoKgwbjc1mQHhQRjnmNeH1LQB4S36xa6pWTURRi1PTnm8ok5FBoCdo4QAvD_BwE&aid=311092&ucfs=1&arphpl=1&dest_id=-1107229&dest_type=city&group_adults=4&req_adults=4&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=7ed983344fca04f1&srepoch=1739213204&from=searchresults
+LinkBehaviour_E2159A96_F100_6C03_41EA_ABEE72CC1A4C.source = https://www.facebook.com/profile.php?id=61561337863595
 LinkBehaviour_2D3FA39E_7F09_E0C7_41D0_2D5A1B1D0EB5.source = https://www.yousee360.com
-LinkBehaviour_12FC7AAB_7F18_E0CE_41DA_FBE69CC603FB.source = https://www.yousee360.com
 LinkBehaviour_138AE6EF_7F07_A046_41D8_FDACEBE0CFE9.source = https://www.yousee360.com
+LinkBehaviour_12FC7AAB_7F18_E0CE_41DA_FBE69CC603FB.source = https://www.yousee360.com
 
 ## Hotspot
 
 ### Tooltip
+HotspotPanoramaOverlayArea_E391FC09_F100_6400_41E9_E11912B361C3.toolTip = Arenal Volcano
 HotspotPanoramaOverlayArea_6D7E8140_75E7_B224_41CB_747ECC6010DB.toolTip = Bathroom Master Bedroom
-HotspotPanoramaOverlayArea_6DD5CFBA_75E2_6E67_4192_9EA142A65044.toolTip = Bedroom 2
 HotspotPanoramaOverlayArea_6CAB42BF_75E6_765C_41C2_E894C0085B32.toolTip = Bedroom 2
+HotspotPanoramaOverlayArea_6DD5CFBA_75E2_6E67_4192_9EA142A65044.toolTip = Bedroom 2
+HotspotPanoramaOverlayArea_E09EB033_F103_BC00_41BD_784602B94ADB.toolTip = Cabaña Silencio del Bosque
+HotspotPanoramaOverlayArea_E20CB8F7_F13F_EC01_41EA_D76BBD56EA30.toolTip = Cerro Chato
+HotspotPanoramaOverlayArea_E37F0887_F100_AC00_41CD_509F4778A16B.toolTip = Chalets No. 1 + 2
+HotspotPanoramaOverlayArea_E242C074_F101_BC07_41CE_265F7B40FCC8.toolTip = Chalets No. 3 + 4
+HotspotPanoramaOverlayArea_E374D403_F101_E401_41DA_D3D1839940F0.toolTip = Dendrobates Reserve
+HotspotPanoramaOverlayArea_E0C3A3E2_F101_9C00_41E4_0B7BEFB187B5.toolTip = Doña Consuelo Restaurant
 HotspotPanoramaOverlayArea_6DCEA4AA_75E2_7264_41D5_B2ACB1BF9895.toolTip = Kitchen
+HotspotPanoramaOverlayArea_6DBF4C60_75E2_B2E4_41C0_79E8FBF18DA8.toolTip = Kitchen
 HotspotPanoramaOverlayArea_6C59CDEE_75E7_ADFC_41D1_A41D59E3F591.toolTip = Kitchen
 HotspotPanoramaOverlayArea_6D66DDBB_75E5_B264_41D8_1A9889BC6E7B.toolTip = Kitchen
-HotspotPanoramaOverlayArea_6DBF4C60_75E2_B2E4_41C0_79E8FBF18DA8.toolTip = Kitchen
 HotspotPanoramaOverlayArea_6C3F7AD5_75E2_D62C_41DC_CBF38D5C3342.toolTip = Living Room
 HotspotPanoramaOverlayArea_627C9E0A_75E2_AE24_41CA_08A6540726AB.toolTip = Living Room
 HotspotPanoramaOverlayArea_6CD58606_75E6_5E2F_41DB_27A61D84853F.toolTip = Master Bedroom
 HotspotPanoramaOverlayArea_6D229122_75E6_F264_41D6_5452447B6CB8.toolTip = Master Bedroom
 HotspotPanoramaOverlayArea_6DCFE7D3_75E5_DE24_41C0_D5B40307F038.toolTip = Master Bedroom
 HotspotPanoramaOverlayArea_623ED2E2_75E2_57E4_419A_D133090FF79E.toolTip = Patio
-HotspotPanoramaOverlayArea_6D3E3174_75E5_D2EC_41C3_F6B709CC8278.toolTip = Small Bathroom
 HotspotPanoramaOverlayArea_6F1892E5_75E5_F7EC_41DB_A4EDAFFEBC09.toolTip = Small Bathroom
+HotspotPanoramaOverlayArea_6D3E3174_75E5_D2EC_41C3_F6B709CC8278.toolTip = Small Bathroom
 
 ## Media
 
 ### Title
+panorama_FF726B63_F101_AC07_41BC_734D3124460D.label = Aerial View
 panorama_4B1842A9_6979_D12A_41B3_873D908BDD01.label = Bathroom Master Bedroom
 panorama_4931634F_6978_B765_41C8_4CCDB65D4A29.label = Bedroom 2
 panorama_49308F58_6978_6F6B_41C9_9D1D96FC8338.label = Kitchen
@@ -52,6 +63,8 @@ Button_2D1CBD31_7F08_61DA_41D6_DE35BF26AEF5.label = Tour by YouSee360
 ### Image
 Image_1347EF1A_7F18_E1CE_41D2_1EF8178CFFC0.url = skin/Image_1347EF1A_7F18_E1CE_41D2_1EF8178CFFC0_en.png
 Image_2E3FEA90_7F0B_A0DA_41D1_1197D01DCFCB.url = skin/Image_2E3FEA90_7F0B_A0DA_41D1_1197D01DCFCB_en.png
+Image_E8A91AE3_F100_EC01_41CF_39DE625D0CCC.url = skin/Image_E8A91AE3_F100_EC01_41CF_39DE625D0CCC_en.jpg
+Image_EB7AD7E8_F100_E40F_41E5_67966599EE9A.url = skin/Image_EB7AD7E8_F100_E40F_41E5_67966599EE9A_en.jpg
 
 ### Tooltip
 IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
